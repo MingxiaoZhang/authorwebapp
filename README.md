@@ -18,9 +18,9 @@ GET/{id}: Returns the JSON data for the author with the given unique id
 
 POST/{id}: Add works to the author of given id
 
-PUT: Updates author information based on new data
+PUT/{id}: Updates author information based on new data
 
-DELETE: Removes author information from database
+DELETE/{id}: Removes author information from database
 
 
 
